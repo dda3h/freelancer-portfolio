@@ -1,0 +1,14 @@
+[
+	{
+		"title": "Projects",
+		"pathname": "/"
+	},
+	{
+		"title": "Skills",
+		"pathname": "/skills"
+	},
+	{
+		"title": "Contacts",
+		"pathname": "/contacts"
+	}
+]

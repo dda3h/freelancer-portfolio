@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Gaming streaming portal",
+		"img": "/images/projects/01.jpg",
+		"bigImg": "/images/projects/01-big.jpg",
+		"description": "Skills: React, Node.js, MongoDB"
+	},
+	{
+		"name": "Video service",
+		"img": "/images/projects/02.jpg",
+		"bigImg": "/images/projects/02-big.jpg",
+		"description": "Skills: React, Node.js, MongoDB"
+	},
+	{
+		"name": "Video portal",
+		"img": "/images/projects/03.jpg",
+		"bigImg": "/images/projects/03-big.jpg",
+		"description": "Skills: React, Node.js, MongoDB"
+	},
+	{
+		"name": "Dating app",
+		"img": "/images/projects/04.jpg",
+		"bigImg": "/images/projects/04-big.jpg",
+		"description": "Skills: React, Node.js, MongoDB"
+	},
+	{
+		"name": "Landing",
+		"img": "/images/projects/05.jpg",
+		"bigImg": "/images/projects/05-big.jpg",
+		"description": "Skills: React, Node.js, MongoDB"
+	},
+	{
+		"name": "Gaming community",
+		"img": "/images/projects/06.jpg",
+		"bigImg": "/images/projects/06-big.jpg",
+		"description": "Skills: React, Node.js, MongoDB"
+	}
+]
